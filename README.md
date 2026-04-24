@@ -68,6 +68,7 @@ WHERE stock_quantity < 50;
 ~ Overstock and dead stock items increase storage and holding costs.
 ~ A few suppliers contribute a large portion of revenue, indicating dependency risk.
 ~ Significant gap exists between top-performing and low-performing products.
+
 💡 Key Learnings
 ~ Writing efficient SQL queries for data analysis
 ~ Data cleaning and transformation techniques
